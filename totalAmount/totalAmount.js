@@ -1,3 +1,7 @@
+//This function calculates the total sales amount from a list of
+//transactions.  It loops through the transctions, compute the total,
+//and print the final sales amount to the console
+
 const sales = [
     {item: "Short", quantity: 4, price: 50},
     {item: "Shirt", quantity: 5, price: 20},
